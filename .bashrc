@@ -1,6 +1,5 @@
 export PATH=$PATH:/user/local/sbin
 export PATH=$HOME/.nodebrew/current/bin:$PATH
-#export PS1="\[\033[1;33m\][\W]\[\e[00m\]$ "
 #export PS1="\[\033[1;33m\][\u\W] \$(parse_git_branch)\$ \[\e[00m\]$ "
 
 function parse_git_branch {
